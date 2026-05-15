@@ -1,1 +1,0 @@
-# Medicinal-Plant-Detection-with-Efficient-NET-using-deep-Learning
